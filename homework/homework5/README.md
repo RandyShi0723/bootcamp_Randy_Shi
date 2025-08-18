@@ -1,7 +1,7 @@
-Data Storage
-`Folders
-``data/raw/: stores original CSV outputs
-``data/processed/: stores Parquet outputs
+Data Storage 
+Folders 
+data/raw/: stores original CSV outputs 
+data/processed/: stores Parquet outputs 
 
   Environment Variables
     DATA_DIR_RAW: where CSV files are written/read
