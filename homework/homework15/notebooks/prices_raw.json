@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "price": 12.5,
+    "temp": "drop"
+  },
+  {
+    "id": 2,
+    "price": 0.0
+  },
+  {
+    "id": 3,
+    "price": "99.99",
+    "note": "promo"
+  },
+  {
+    "id": 4,
+    "price": null
+  },
+  {
+    "id": 5,
+    "price": "bad"
+  }
+]

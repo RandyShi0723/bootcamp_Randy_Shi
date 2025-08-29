@@ -1,0 +1,17 @@
+{
+  "task": "clean",
+  "run_at": "2025-08-29T02:35:06.611040",
+  "input": "prices_raw.json",
+  "output": "prices_clean.json",
+  "rows_out": 3,
+  "params": {
+    "drop_keys": [
+      "temp",
+      "note"
+    ],
+    "min_price": 0,
+    "max_price": null
+  },
+  "input_hash": "1ad3837a5d269e035909fe3d60b2fd0f93070af0e64931be7320486b9185896a",
+  "output_hash": "4f831a03924b33c20c132978a06cc98686e1d517776a3f617ac9311fe23606b4"
+}
